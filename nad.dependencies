@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "trisfaizal/kernel_xiaomi_msm8998-PH",
+    "repository": "kangdom/placeholder",
     "target_path": "kernel/xiaomi/msm8998",
     "branch": "ten-placeholder"
   },
