@@ -23,7 +23,13 @@
     "target_path": "vendor/xiaomi",
     "branch": "10"
   },
-   {
+  {
+    "remote": "github",
+    "repository": "trisfaizal/vendor_apps_OPScreenRecord",
+    "target_path": "vendor/apps/OPScreenRecord",
+    "branch": "10"
+  },
+  {
     "remote": "priv",
     "repository": "android_packages_apps_NusantaraParts",
     "target_path": "packages/apps/NusantaraParts",
