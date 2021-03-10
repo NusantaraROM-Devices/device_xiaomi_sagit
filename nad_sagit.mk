@@ -30,6 +30,9 @@ $(call inherit-product-if-exists, vendor/apps/MiuiCamera/config.mk)
 # Inherit Nusantara Parts
 $(call inherit-product, packages/apps/NusantaraParts/nadproject.mk)
 
+# ScreenRecorder
+$(call inherit-product-if-exists, vendor/apps/OPScreenRecord/config.mk)
+
 PRODUCT_NAME := nad_sagit
 PRODUCT_DEVICE := sagit
 PRODUCT_BRAND := Xiaomi
