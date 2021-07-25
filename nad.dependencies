@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "AOSP-11/kernel_xiaomi_msm8998",
+    "repository": "trisfproject/kernel_xiaomi_msm8998",
     "target_path": "kernel/xiaomi/msm8998",
     "branch": "11"
   },
@@ -19,7 +19,7 @@
   },
   {
     "remote": "github",
-    "repository": "AOSP-11/vendor_xiaomi",
+    "repository": "trisfproject/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch": "11"
   },
@@ -28,11 +28,5 @@
     "repository": "AOSP-11/prebuilts_clang_host_linux-x86_clang-r416183c",
     "target_path": "prebuilts/clang/host/linux-x86/clang-r416183c",
     "branch": "11"
-  },
-  {
-	"remote": "priv",
-	"repository": "android_packages_apps_NusantaraPapers",
-	"target_path": "packages/apps/NusantaraPapers",
-	"branch": "11"
   }
 ]
