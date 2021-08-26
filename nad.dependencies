@@ -19,7 +19,7 @@
   },
   {
     "remote": "github",
-    "repository": "trisfproject/vendor_xiaomi",
+    "repository": "trisfproject/vendor_xiaomi-sagit",
     "target_path": "vendor/xiaomi",
     "branch": "11"
   },
