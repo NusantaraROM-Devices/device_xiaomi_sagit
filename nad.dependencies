@@ -25,8 +25,8 @@
   },
   {
     "remote": "github",
-    "repository": "AOSP-11/prebuilts_clang_host_linux-x86_clang-r416183c",
-    "target_path": "prebuilts/clang/host/linux-x86/clang-r416183c",
+    "repository": "AOSP-11/prebuilts_clang_host_linux-x86_clang-r428724",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-r428724",
     "branch": "11"
   }
 ]
